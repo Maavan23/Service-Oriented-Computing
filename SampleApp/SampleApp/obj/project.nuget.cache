@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1n+opdBfSPI=",
+  "dgSpecHash": "H6QkSdo0Fuc=",
   "success": true,
-  "projectFilePath": "D:\\SOC module\\SampleApp\\SampleApp\\SampleApp.csproj",
+  "projectFilePath": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\SampleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sasindu\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Sasindu\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

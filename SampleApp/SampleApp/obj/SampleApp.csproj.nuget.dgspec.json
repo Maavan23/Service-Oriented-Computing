@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SOC module\\SampleApp\\SampleApp\\SampleApp.csproj": {}
+    "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\SampleApp.csproj": {}
   },
   "projects": {
-    "D:\\SOC module\\SampleApp\\SampleApp\\SampleApp.csproj": {
+    "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\SampleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SOC module\\SampleApp\\SampleApp\\SampleApp.csproj",
+        "projectUniqueName": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\SampleApp.csproj",
         "projectName": "SampleApp",
-        "projectPath": "D:\\SOC module\\SampleApp\\SampleApp\\SampleApp.csproj",
+        "projectPath": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\SampleApp.csproj",
         "packagesPath": "C:\\Users\\Sasindu\\.nuget\\packages\\",
-        "outputPath": "D:\\SOC module\\SampleApp\\SampleApp\\obj\\",
+        "outputPath": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

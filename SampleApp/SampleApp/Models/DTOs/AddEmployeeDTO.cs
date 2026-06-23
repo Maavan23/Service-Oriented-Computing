@@ -26,5 +26,9 @@ namespace SampleApp.Models.DTOs
         [Required]
         public string Position { get; set; }
 
+        [Required]
+        [Range(0, double.MaxValue)]
+        public decimal Salary { get; set; }
+
     }
 }
