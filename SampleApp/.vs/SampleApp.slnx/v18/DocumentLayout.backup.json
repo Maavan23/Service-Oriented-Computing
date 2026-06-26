@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\models\\dtos\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\models\\dtos\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\migrations\\dbconnectionmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\models\\dtos\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\models\\dtos\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\models\\dtos\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\models\\dtos\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "20260623081728_initialCreate.cs",
               "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Migrations\\20260623081728_initialCreate.cs",
               "RelativeDocumentMoniker": "SampleApp\\Migrations\\20260623081728_initialCreate.cs",
@@ -51,12 +51,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-23T08:17:29.619Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\appsettings.json",
               "RelativeDocumentMoniker": "SampleApp\\appsettings.json",
@@ -69,46 +68,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DBConnectionModelSnapshot.cs",
-              "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Migrations\\DBConnectionModelSnapshot.cs",
-              "RelativeDocumentMoniker": "SampleApp\\Migrations\\DBConnectionModelSnapshot.cs",
-              "ToolTip": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Migrations\\DBConnectionModelSnapshot.cs",
-              "RelativeToolTip": "SampleApp\\Migrations\\DBConnectionModelSnapshot.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T08:27:49.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "SampleApp\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "SampleApp\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T08:27:16.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Models\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "SampleApp\\Models\\Entities\\Employee.cs",
               "ToolTip": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Models\\Entities\\Employee.cs",
               "RelativeToolTip": "SampleApp\\Models\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-23T07:55:43.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "SampleApp\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "SampleApp\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAYwF0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:15:00.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AddEmployeeDTO.cs",
               "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Models\\DTOs\\AddEmployeeDTO.cs",
               "RelativeDocumentMoniker": "SampleApp\\Models\\DTOs\\AddEmployeeDTO.cs",
@@ -121,16 +107,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Models\\DTOs\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "SampleApp\\Models\\DTOs\\EmployeeController.cs",
-              "ToolTip": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Models\\DTOs\\EmployeeController.cs",
-              "RelativeToolTip": "SampleApp\\Models\\DTOs\\EmployeeController.cs",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SampleApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SampleApp\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T08:15:00.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T08:27:16.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBConnectionModelSnapshot.cs",
+              "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Migrations\\DBConnectionModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SampleApp\\Migrations\\DBConnectionModelSnapshot.cs",
+              "ToolTip": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Migrations\\DBConnectionModelSnapshot.cs",
+              "RelativeToolTip": "SampleApp\\Migrations\\DBConnectionModelSnapshot.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T08:27:49.177Z"
             }
           ]
         }
