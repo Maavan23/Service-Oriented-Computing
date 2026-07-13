@@ -1,34 +1,8 @@
 [
   {
     "ContainingType": "SampleApp.Controllers.EmployeeController",
-    "Method": "GetAllEmployees",
-    "RelativePath": "api/Employee",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SampleApp.Controllers.EmployeeController",
-    "Method": "AddEmplyoee",
-    "RelativePath": "api/Employee",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "dto",
-        "Type": "SampleApp.Models.DTOs.AddEmployeeDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "SampleApp.Controllers.EmployeeController",
     "Method": "GetEmployeeById",
-    "RelativePath": "api/Employee/{id}",
+    "RelativePath": "api/Employees/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -44,7 +18,7 @@
   {
     "ContainingType": "SampleApp.Controllers.EmployeeController",
     "Method": "UpdateEmployee",
-    "RelativePath": "api/Employee/{id}",
+    "RelativePath": "api/Employees/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -65,7 +39,7 @@
   {
     "ContainingType": "SampleApp.Controllers.EmployeeController",
     "Method": "DeleteEmployee",
-    "RelativePath": "api/Employee/{id}",
+    "RelativePath": "api/Employees/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -73,6 +47,32 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SampleApp.Controllers.EmployeeController",
+    "Method": "GetAllEmployees",
+    "RelativePath": "api/Employees/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SampleApp.Controllers.EmployeeController",
+    "Method": "AddEmplyoee",
+    "RelativePath": "api/Employees/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SampleApp.Models.DTOs.AddEmployeeDTO",
         "IsRequired": true
       }
     ],

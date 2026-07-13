@@ -7,7 +7,7 @@ using SampleApp.Utility;
 
 namespace SampleApp.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/Employees")]
     [ApiController]
     public class EmployeeController : ControllerBase
     {
@@ -18,7 +18,7 @@ namespace SampleApp.Controllers
             _context = context;
         }
 
-        [HttpGet]
+        [HttpGet("all")]
         public async Task<IActionResult> GetAllEmployees()
         {
             var employees = await _context.Employees.ToListAsync();
@@ -39,7 +39,7 @@ namespace SampleApp.Controllers
             return Ok(employee);
         }
 
-        [HttpPost]
+        [HttpPost("create")]
         public async Task<IActionResult> AddEmplyoee(AddEmployeeDTO dto)
         {
             var employee = new Employee

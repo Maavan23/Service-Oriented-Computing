@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\sampleapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\sampleapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|d:\\soc module\\service oriented computing\\sampleapp\\sampleapp\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BADA8CB-56E7-9A82-F46F-76EAEB094CA6}|SampleApp\\SampleApp.csproj|solutionrelative:sampleapp\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20260623081728_initialCreate.cs",
               "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Migrations\\20260623081728_initialCreate.cs",
               "RelativeDocumentMoniker": "SampleApp\\Migrations\\20260623081728_initialCreate.cs",
@@ -55,7 +59,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "SampleApp.http",
+              "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\SampleApp.http",
+              "RelativeDocumentMoniker": "SampleApp\\SampleApp.http",
+              "ToolTip": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\SampleApp.http",
+              "RelativeToolTip": "SampleApp\\SampleApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-03T04:06:11.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\appsettings.json",
               "RelativeDocumentMoniker": "SampleApp\\appsettings.json",
@@ -63,12 +79,11 @@
               "RelativeToolTip": "SampleApp\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-23T08:55:17.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T08:55:17.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Models\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "SampleApp\\Models\\Entities\\Employee.cs",
@@ -76,8 +91,7 @@
               "RelativeToolTip": "SampleApp\\Models\\Entities\\Employee.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAIwAQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T07:55:43.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T07:55:43.279Z"
             },
             {
               "$type": "Document",
@@ -87,14 +101,14 @@
               "RelativeDocumentMoniker": "SampleApp\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "SampleApp\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAYwF0AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-23T08:15:00.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AddEmployeeDTO.cs",
               "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Models\\DTOs\\AddEmployeeDTO.cs",
               "RelativeDocumentMoniker": "SampleApp\\Models\\DTOs\\AddEmployeeDTO.cs",
@@ -102,12 +116,11 @@
               "RelativeToolTip": "SampleApp\\Models\\DTOs\\AddEmployeeDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-23T08:18:11.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-23T08:18:11.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "SampleApp\\Controllers\\WeatherForecastController.cs",
@@ -119,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DBConnectionModelSnapshot.cs",
               "DocumentMoniker": "D:\\SOC module\\Service Oriented Computing\\SampleApp\\SampleApp\\Migrations\\DBConnectionModelSnapshot.cs",
               "RelativeDocumentMoniker": "SampleApp\\Migrations\\DBConnectionModelSnapshot.cs",
